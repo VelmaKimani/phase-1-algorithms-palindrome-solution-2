@@ -25,7 +25,7 @@ As a reminder, here are the instructions:
 ## Solution 2
 
 ### Video Walkthrough
-
+https://www.youtube.com/watch?v=X7OwxO7zuzU 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X7OwxO7zuzU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <!-- TODO: Add video walkthrough -->
